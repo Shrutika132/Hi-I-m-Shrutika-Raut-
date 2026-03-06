@@ -1,5 +1,4 @@
 👋 **Hi, I'm Shrutika Raut!**
-
 ---
 
 🚀 **Business Analyst | Data Analyst | SQL | Power BI | Data Visualization**
@@ -16,35 +15,36 @@
 
 🛠 Technical Skills
 
-Power BI
+🔹 Power BI
 
-Excel
+🔹 Excel
 
-Tableau
+🔹 Tableau
 
-SQL
+🔹 SQL
 
-Data Analysis
+🔹 Data Analysis
 
-Data Visualization
+🔹 Data Visualization
 
-Business Intelligence
-
+🔹 Business Intelligence
+ 
 ---
 
 📊 Projects
 
 1️⃣ Employee Insights Dashboard (Power BI)
 
-Created an interactive Power BI dashboard to analyze employee data and provide insights on workforce trends and performance.
+🔹 Created an interactive Power BI dashboard to analyze employee data and provide insights on workforce trends and performance.
 
 2️⃣ Employee Performance Analysis (SQL)
 
-Analyzed employee performance data using SQL queries to identify key trends and support HR decision-making.
+🔹 Analyzed employee performance data using SQL queries to identify key trends and support HR decision-making.
 
 ---
+
 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/shrutikaraut13
+🔗 LinkedIn: www.linkedin.com/in/shrutikaraut13
 
-Email: shrutikaraut132@gmail.com
+📧 Email: shrutikaraut132@gmail.com
