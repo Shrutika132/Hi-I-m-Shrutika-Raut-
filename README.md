@@ -5,8 +5,11 @@ Business Analyst | Data Analyst |
 ---
 
 🔍 Passionate about solving business problems using data analysis and insights.
+
 💡 Skilled in SQL, Power BI, Excel, Tableau, and data visualization.
+
 💼 Business Analyst focused on data analysis and business intelligence.
+
 🎯 Interested in building dashboards and driving data-driven decisions.
 
 ---
