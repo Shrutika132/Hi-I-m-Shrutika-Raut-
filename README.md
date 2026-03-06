@@ -1,6 +1,6 @@
 👋 **Hi, I'm Shrutika Raut!**
 
--
+---
 
 Business Analyst | Data Analyst | SQL | Power BI | Data Visualization
 
