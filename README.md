@@ -1,6 +1,8 @@
-# Hi I'm Shrutika Raut!
+# Hi, I'm Shrutika Raut!
 
-Business Analyst | Data Analyst |
+---
+
+Business Analyst | Data Analyst | SQL | Power BI | Data Visualization
 
 ---
 
@@ -35,9 +37,11 @@ Business Intelligence
 📊 Projects
 
 1️⃣ Employee Insights Dashboard (Power BI)
+
 Created an interactive Power BI dashboard to analyze employee data and provide insights on workforce trends and performance.
 
 2️⃣ Employee Performance Analysis (SQL)
+
 Analyzed employee performance data using SQL queries to identify key trends and support HR decision-making.
 
 ---
